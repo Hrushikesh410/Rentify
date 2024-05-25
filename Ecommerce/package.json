@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-dom": "^18.2.0",
+    "routes": "^2.1.0"
+  }
+}
